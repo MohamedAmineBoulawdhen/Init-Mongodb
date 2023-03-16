@@ -44,6 +44,11 @@
 
 10. Display all of the contacts list: `db.contactlist.find()`
 
+---
+
+# conclusion
+
+I learned how to manipulate MongoDB CRUD operations using the MongoDB shell, including inserting and querying data based on certain criteria. These skills are essential for working with MongoDB, a popular NoSQL database used in many applications today.
 
 
 
